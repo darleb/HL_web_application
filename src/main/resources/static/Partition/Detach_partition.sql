@@ -1,0 +1,1 @@
+ALTER TABLE students DETACH PARTITION students_gum;
